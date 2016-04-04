@@ -1,0 +1,28 @@
+name: Year of the Buffalo
+favicon: null
+layout_spectrum: 0.4531038391869515
+typography_spectrum: 0.33624273422174156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5801076593343168
+  lightness: 0.17622068291530013
+  saturation: 0.1987878978252411
+  rhythmicContrast: 0.9841863415203989
+purpose: []
